@@ -1,4 +1,4 @@
-## [Portfolio](https://muhammadaryan-analytics.github.io/Portfolio/)
+## [Portfolio](https://github.com/aryanlytics/Portfolio.git)
 
 <h2> Hey, I'm Aryan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2>
 
