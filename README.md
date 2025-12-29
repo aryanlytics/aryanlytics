@@ -11,16 +11,6 @@ I work with **SQL**, **Python**, and **statistical testing** to analyze customer
 - **A/B Testing & Experimentation** (Testing hypotheses in live environments)
 - **Advanced SQL** (Window functions, CTEs, query optimization)
 
-## Featured Projects
-
-### [Olist E-Commerce Retention Analysis](https://github.com/aryanlytics/Olist-Retention-Analysis)
-Analyzed 96K customer transactions to understand why 97% never returned. Used statistical testing to prove the issue was structural market behavior, not operational failures. Data suggested reallocating retention budget to acquisition efficiency.
-
-### [Instacart Customer Behavior Analysis](https://github.com/aryanlytics/Instacart-Customer-Behavior-Analysis)
-Analyzed 32M orders to understand why reorder rates varied 32 percentage points across categories (dairy 67% vs pantry 35%). Found that category type and shopping breadth drive behavior, not customer loyalty or frequency.
-
-### Consumer Loan Profitability Analysis
-Analyzed loan application and performance data to identify which approval criteria maximize profitability while managing default risk. Data suggested criteria adjustments with estimated impact on unit economics.
 
 ## Connect with Me
 
