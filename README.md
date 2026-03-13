@@ -1,6 +1,4 @@
-# [Portfolio](https://github.com/aryanlytics/Portfolio.git)
-
-<h2>Hey, I'm Aryan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2>Hi, I'm Aryan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 I'm a **Data Engineer** building automated pipelines that turn raw data into analysis-ready datasets. I work across the full data stack — from scraping and ingestion to transformation, quality validation, and cloud warehousing.
 
