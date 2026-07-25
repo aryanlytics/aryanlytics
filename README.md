@@ -1,52 +1,84 @@
-<h2>Hi, I'm Aryan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<div align="center">
 
-I'm a **Data Engineer** building automated pipelines that turn raw data into analysis-ready datasets. I work across the full data stack — from scraping and ingestion to transformation, quality validation, and cloud warehousing.
+<h2> Hey there, I'm Aryan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2>
 
-Currently focused on **batch pipelines**, **BigQuery**, and **Airflow orchestration**. Previously worked as a Data Analyst, so I understand both sides — how data is built and how it's used.
+**I build things that probably shouldn't work — but do.**
 
----
+*Full-stack engineer from Pakistan obsessed with real-time systems, AI agents, and making browsers do things they weren't asked to.*
 
-## What I Build
 
-- **End-to-end pipelines** — scrape → transform → validate → load
-- **Automated workflows** with Apache Airflow on Docker
-- **Cloud data warehouses** on Google BigQuery
-- **Analytics-ready datasets** for business intelligence and reporting
 
----
 
-## Currently Learning
-
-- **Apache Spark** — distributed data processing
-- **dbt** — SQL-based transformations inside the warehouse  
-- **Medallion Architecture** — Bronze / Silver / Gold data layers
-- **Kafka** — event streaming and real-time pipelines
-
----
-
-## Tools & Technologies
-
-<div align="left">
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-<img width="48" height="48" alt="VS Code" src="https://github.com/user-attachments/assets/f720e508-9dbd-41b2-877e-57f14032282c" />
-<img width="48" height="46" alt="PostgreSQL" src="https://github.com/user-attachments/assets/d9df4030-f288-4c98-aa14-406772e1b13e" />
-<img width="52" height="50" alt="SQL" src="https://github.com/user-attachments/assets/115c97bc-ff4b-4ef3-a3c3-2b271c23c703" />
-<img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI"/>
-<img width="52" height="50" alt="Excel" src="https://github.com/user-attachments/assets/a935742d-83c5-468e-a6ee-b306e032d41e" />
-<img width="48" height="48" alt="Tableau" src="https://github.com/user-attachments/assets/06043e16-b9cb-417b-83dc-71f81c21c9b8" />
 </div>
 
 ---
 
-## Connect with Me
+<div align="center">
 
-<p align="left">
+### Are you lost? good. so was I when I started building this 👇
+
+</div>
+
+
+
+## 🤖 BrowserAI — *just say it*
+
+> Don't google it. Don't ask ChatGPT. Just say it out loud.
+
+Got a problem? Speak it. BrowserAI figures it out and handles it — create an account somewhere, find information, copy something and send it over email, navigate through a flow you don't want to deal with. Voice in, task done. Think Jarvis, but it actually exists.
+
+It's not a chatbot. It does things.
+
+**Built with:**
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000?style=flat&logo=fastify&logoColor=white)
+![LiveKit](https://img.shields.io/badge/LiveKit-DC2626?style=flat)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_Live-4285F4?style=flat&logo=google&logoColor=white)
+![Kong](https://img.shields.io/badge/Kong-003459?style=flat&logo=kong&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-5A0FC8?style=flat)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat&logo=google&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+
+
+---
+
+## 🛠 what I actually know
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat)
+![WebRTC](https://img.shields.io/badge/WebRTC-333?style=flat&logo=webrtc&logoColor=white)
+
+---
+
+<div align="center">
+
+**currently shipping BrowserAI · open to real engineering work · Pakistan 🇵🇰**
+
+*if something on here caught your eye — let's talk.*
+<p align="center">
 <a target="_blank" href="https://www.linkedin.com/in/muhammadaryan008/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a target="_blank" href="mailto:aryanlytics@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a target="_blank" href="https://wa.me/923400407475"><img src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a target="_blank" href="https://raw.githubusercontent.com/aryanlytics/Portfolio/main/Muhammad_Aryan_CV.pdf"><img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" /></a>
 </p>
 
----
-
-*Pipelines ship data. Quality checks protect it. Partitions make it fast.*
+</div>
