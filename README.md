@@ -1,5 +1,3 @@
-<div align="left">
-
 <h2> Hey there, I'm Aryan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2>
 
 **I build things that probably shouldn't work — but do.**
@@ -9,7 +7,7 @@
 
 
 
-</div>
+
 
 ---
 
