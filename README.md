@@ -25,7 +25,7 @@
 
 Got a problem? Speak it. BrowserAI figures it out and handles it — create an account somewhere, find information, copy something and send it over email, navigate through a flow you don't want to deal with. Voice in, task done. Think Jarvis, but it actually exists.
 
-It's not a chatbot. It does things.
+***It's not a chatbot. It does things.***
 
 **Built with:**
 
