@@ -13,7 +13,7 @@
 
 <div align="left">
 
-### Are you lost? good. so was I when I started building this 👇
+#### *Are you lost? good. so was I when I started building this* 👇
 
 </div>
 
@@ -50,22 +50,7 @@ It's not a chatbot. It does things.
 
 ---
 
-## 🛠 what I actually know
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat)
-![WebRTC](https://img.shields.io/badge/WebRTC-333?style=flat&logo=webrtc&logoColor=white)
-
----
 
 <div align="center">
 
