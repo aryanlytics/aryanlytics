@@ -53,10 +53,10 @@ It's not a chatbot. It does things.
 
 
 <div align="center">
-
+  
 **currently shipping BrowserAI · open to real engineering work · Pakistan 🇵🇰**
 
-*if something on here caught your eye — let's talk.*
+*Like what you see? Let's make it happen.*
 <p align="center">
 <a target="_blank" href="https://www.linkedin.com/in/muhammadaryan008/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a target="_blank" href="mailto:aryanlytics@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
