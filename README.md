@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 <h2> Hey there, I'm Aryan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2>
 
@@ -13,7 +13,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
 
 ### Are you lost? good. so was I when I started building this 👇
 
