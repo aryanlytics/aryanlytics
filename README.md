@@ -2,7 +2,7 @@
 
 **I build things that probably shouldn't work — but do.**
 
-*Full-stack engineer from Pakistan obsessed with real-time systems, AI agents, and making browsers do things they weren't asked*
+*Full-stack developer from Pakistan obsessed with real-time systems, AI agents, and making browsers do things they weren't asked*
 
 
 
