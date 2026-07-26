@@ -29,8 +29,6 @@ Got a problem? Speak it. BrowserAI figures it out and handles it — create an a
 
 **Built with:**
 
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000?style=flat&logo=fastify&logoColor=white)
 ![LiveKit](https://img.shields.io/badge/LiveKit-DC2626?style=flat)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
@@ -39,6 +37,8 @@ Got a problem? Speak it. BrowserAI figures it out and handles it — create an a
 ![Kong](https://img.shields.io/badge/Kong-003459?style=flat&logo=kong&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-5A0FC8?style=flat)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat&logo=google&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat)
