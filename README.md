@@ -4,22 +4,9 @@
 
 *Full-stack developer from Pakistan obsessed with real-time systems, AI agents, and making browsers do things they weren't asked*
 
-
-
-
-
-
 ---
 
-<div align="left">
-
-#### *Are you lost? good. so was I when I started building this* 👇
-
-</div>
-
-
-
-## 🤖 BrowserAI — *just say it*
+### BrowserAI
 
 > Don't google it. Don't ask ChatGPT. Just say it out loud.
 
@@ -53,15 +40,12 @@ Got a problem? Speak it. BrowserAI figures it out and handles it — create an a
 
 
 <div align="center">
-  
-**currently shipping BrowserAI · open to real engineering work · Pakistan 🇵🇰**
 
 *Like what you see? Let's make it happen.*
 <p align="center">
 <a target="_blank" href="https://www.linkedin.com/in/muhammadaryan008/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a target="_blank" href="mailto:aryanlytics@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a target="_blank" href="https://wa.me/923400407475"><img src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a target="_blank" href="https://raw.githubusercontent.com/aryanlytics/Portfolio/main/Muhammad_Aryan_CV.pdf"><img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" /></a>
+<a target="_blank" href="https://wa.me/923400407475"><img src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 </div>
