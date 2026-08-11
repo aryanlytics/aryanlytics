@@ -1,26 +1,30 @@
-<h2> Hey there, I'm Aryan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2>
-
-**I build things that probably shouldn't work — but do.**
-
-*Full-stack developer from Pakistan obsessed with real-time systems, AI agents, and making browsers do things they weren't asked*
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Muhammad%20Aryan&fontSize=30&fontAlignY=30&desc=Full%20Stack%20Developer%20%7C%20I%20build%20things%20that%20probably%20shouldn't%20work%20—%20but%20do.&descSize=15&descAlignY=45&descAlign=50" width="100%" />
+</div>
 
 ---
 
-### BrowserAI
+### Domino
 
-> Don't google it. Don't ask ChatGPT. Just say it out loud.
+> **The Problem:** Browsers don't actually understand what you want. They only understand exactly what you click. You have to translate your simple thoughts into hundreds of tiny clicks, fill out forms, fight popups, and manage tabs. The gap between knowing what you want and actually getting it done is just too big.
 
-Got a problem? Speak it. BrowserAI figures it out and handles it — create an account somewhere, find information, copy something and send it over email, navigate through a flow you don't want to deal with. Voice in, task done. Think Jarvis, but it actually exists.
+**The Solution:** You speak. The browser works.
 
-***It's not a chatbot. It does things.***
+BrowserAI bridges the gap between thought and execution. It is a voice controlled autonomous digital worker that takes physical control of your Chrome browser to handle the tedious clicking, scrolling, and typing natively on your machine. 
 
-**Built with:**
+**Say:** *"Go to Amazon, find a black wireless mouse under $30 with prime shipping, and add it to my cart."*<br/>
+**Say:** *"Hey, go to LinkedIn, find 5 recruiters in the software engineering space, send them a connection request, and draft a message saying I'm looking for a job."*<br/>
+
+***It's not a chatbot. It's an autonomous employee.***
+
+
 
 ![Fastify](https://img.shields.io/badge/Fastify-000?style=flat&logo=fastify&logoColor=white)
 ![LiveKit](https://img.shields.io/badge/LiveKit-DC2626?style=flat)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_Live-4285F4?style=flat&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_Llama_3.3-F55036?style=flat)
 ![Kong](https://img.shields.io/badge/Kong-003459?style=flat&logo=kong&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-5A0FC8?style=flat)
@@ -39,13 +43,15 @@ Got a problem? Speak it. BrowserAI figures it out and handles it — create an a
 
 
 
+
+
+
 <div align="center">
 
-*Like what you see? Let's make it happen.*
-<p align="center">
-<a target="_blank" href="https://www.linkedin.com/in/muhammadaryan008/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a target="_blank" href="mailto:aryanlytics@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a target="_blank" href="https://wa.me/923400407475"><img src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-</p>
-
+  <br/>
+  <p align="center">
+    <a target="_blank" href="https://www.linkedin.com/in/muhammadaryan008/"><img src="https://img.shields.io/badge/LinkedIn-EAEAEA?style=for-the-badge&logo=linkedin&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank" href="mailto:aryanlytics@gmail.com"><img src="https://img.shields.io/badge/Email-EAEAEA?style=for-the-badge&logo=gmail&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank" href="https://wa.me/923400407475"><img src="https://img.shields.io/badge/WhatsApp-EAEAEA?style=for-the-badge&logo=whatsapp&logoColor=black" /></a>
+  </p>
 </div>
