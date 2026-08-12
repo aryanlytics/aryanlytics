@@ -17,7 +17,7 @@
 
 **The Solution:** You speak. The browser works.
 
-Domino bridges the gap between thought and execution. It is a voice controlled autonomous digital worker that takes physical control of your Chrome browser to handle the tedious clicking, scrolling, and typing natively on your machine. 
+Domino bridges the gap between thought and execution. It is a voice-controlled autonomous digital worker that takes physical control of your Chrome browser. Just speak your intent and watch it happen. Watch as Domino seamlessly opens tabs, reads your screen, scrolls, clicks, and types natively on your machine. Just say what you want, and Domino does the rest.
 
 **Say:** *"Go to Amazon, find a black wireless mouse under $30 with prime shipping, and add it to my cart."*<br/>
 **Say:** *"Hey, go to LinkedIn, find 5 recruiters in the software engineering space, send them a connection request, and draft a message saying I'm looking for a job."*<br/>
