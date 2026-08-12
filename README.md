@@ -1,8 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Muhammad%20Aryan&fontSize=30&fontAlignY=30&desc=Full%20Stack%20Developer%20%7C%20I%20build%20things%20that%20probably%20shouldn't%20work%20—%20but%20do.&descSize=15&descAlignY=45&descAlign=50" width="100%" />
-</div>
 
----
+</div>
 
 ### Domino
 
