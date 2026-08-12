@@ -64,7 +64,7 @@ Domino bridges the gap between thought and execution. It is a voice controlled a
       </tr>
       <tr>
         <td align="left"><strong>Backend</strong></td>
-        <td align="left">Node.js &middot; TypeScript &middot; Express &middot; Fastify &middot; REST &middot; GraphQL &middot; WebSockets &middot; Webhook &middot; Webrtc </td>
+        <td align="left">Node.js &middot; TypeScript &middot; Express &middot; Fastify &middot; REST &middot; GraphQL &middot; WebSockets &middot; Webhook &middot; gRPC</td>
       </tr>
       <tr>
         <td align="left"><strong>AI and Voice</strong></td>
