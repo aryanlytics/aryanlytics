@@ -3,13 +3,21 @@
 
 </div>
 
+### About
+  
+  <p>I architect software products that are built to handle complex workflows, real time data, and high concurrency environments. I take complete ownership of the architecture. Whether building event driven platforms, structuring massive monorepos, or deploying autonomous AI agents into production, I make sure the underlying infrastructure actually solves the business problem. I take on the heavy lifting across the entire stack, tackling complex state management and latency bottlenecks so the end product is seamless and reliable.
+
+</p>
+
+----
+
 ### Domino
 
 > **The Problem:** Browsers don't actually understand what you want. They only understand exactly what you click. You have to translate your simple thoughts into hundreds of tiny clicks, fill out forms, fight popups, and manage tabs. The gap between knowing what you want and actually getting it done is just too big.
 
 **The Solution:** You speak. The browser works.
 
-BrowserAI bridges the gap between thought and execution. It is a voice controlled autonomous digital worker that takes physical control of your Chrome browser to handle the tedious clicking, scrolling, and typing natively on your machine. 
+Domino bridges the gap between thought and execution. It is a voice controlled autonomous digital worker that takes physical control of your Chrome browser to handle the tedious clicking, scrolling, and typing natively on your machine. 
 
 **Say:** *"Go to Amazon, find a black wireless mouse under $30 with prime shipping, and add it to my cart."*<br/>
 **Say:** *"Hey, go to LinkedIn, find 5 recruiters in the software engineering space, send them a connection request, and draft a message saying I'm looking for a job."*<br/>
@@ -41,9 +49,39 @@ BrowserAI bridges the gap between thought and execution. It is a voice controlle
 ---
 
 
+  ### Tech Stack
+  <table>
+    <thead>
+      <tr>
+        <th align="left">Layer</th>
+        <th align="left">Tools & Technologies</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="left"><strong>Frontend</strong></td>
+        <td align="left">React &middot; Next.js &middot; TypeScript &middot; Tailwind CSS &middot; TanStack Query &middot; Zustand &middot; Chrome Extension APIs</td>
+      </tr>
+      <tr>
+        <td align="left"><strong>Backend</strong></td>
+        <td align="left">Node.js &middot; TypeScript &middot; Express &middot; Fastify &middot; REST &middot; GraphQL &middot; WebSockets &middot; Webhook &middot; Webrtc </td>
+      </tr>
+      <tr>
+        <td align="left"><strong>AI and Voice</strong></td>
+        <td align="left">LangChain &middot; LangGraph &middot; Langsmith &middot; Gemini Pro / Live &middot; LiveKit &middot; MCP &middot; RAG &middot; Agentic AI</td>
+      </tr>
+      <tr>
+        <td align="left"><strong>DevOps and Tools</strong></td>
+        <td align="left">NGINX &middot; Kong &middot; Github Action &middot; CI/CD &middot; Docker</td>
+      </tr>
+      <tr>
+        <td align="left"><strong>Architecture</strong></td>
+        <td align="left">Multi-tenant &middot; Agent Driven Automation &middot; Event Driven &middot; System Design &middot; Microservices</td>
+      </tr>
+    </tbody>
+  </table>
 
-
-
+---
 
 <div align="center">
 
