@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Muhammad%20Aryan&fontSize=30&fontAlignY=27&desc=Full%20Stack%20Developer%20%7C%20I%20build%20things%20that%20probably%20shouldn't%20work%20—%20but%20do.&descSize=15&descAlignY=43&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Muhammad%20Aryan&fontSize=30&fontAlignY=28&desc=Full%20Stack%20Developer%20%7C%20I%20build%20things%20that%20probably%20shouldn't%20work%20—%20but%20do.&descSize=15&descAlignY=43&descAlign=50" width="100%" />
 
 </div>
 
@@ -22,7 +22,7 @@ Domino bridges the gap between thought and execution. It is a voice-controlled a
 **Say:** *"Go to Amazon, find a black wireless mouse under $30 with prime shipping, and add it to my cart."*<br/>
 **Say:** *"Hey, go to LinkedIn, find 5 recruiters in the software engineering space, send them a connection request, and draft a message saying I'm looking for a job."*<br/>
 
-***It's not a chatbot. It's an autonomous employee.***
+
 
 
 
