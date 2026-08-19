@@ -87,6 +87,8 @@ Domino bridges the gap between thought and execution. It is a voice-controlled a
 
   <br/>
   <p align="center">
+    <a>                                                            <img src="https://img.shields.io/badge/Portfolio-EAEAEA?style=for-the-badge&logo=person&logoColor=black"/>  
+<a/>&nbsp;&nbsp;&nbsp;&nbsp;
     <a target="_blank" href="https://www.linkedin.com/in/muhammadaryan008/"><img src="https://img.shields.io/badge/LinkedIn-EAEAEA?style=for-the-badge&logo=linkedin&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a target="_blank" href="mailto:aryanlytics@gmail.com"><img src="https://img.shields.io/badge/Email-EAEAEA?style=for-the-badge&logo=gmail&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a target="_blank" href="https://wa.me/923400407475"><img src="https://img.shields.io/badge/WhatsApp-EAEAEA?style=for-the-badge&logo=whatsapp&logoColor=black" /></a>
